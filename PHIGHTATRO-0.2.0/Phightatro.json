@@ -1,0 +1,13 @@
+{
+    "id": "PHIGHTATRO",
+    "name": "Phightatro",
+    "author": ["Scythe"],
+    "description": "A simple mod made in 5 days, inspired by Phighting. Characters belong to Boggio, play at www.roblox.com/games/7138009149/PHIGHTING !",
+    "prefix": "PAO",
+    "main_file": "Phighters1.lua",
+    "badge_colour": "278B79",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "0.2.0"
+}
